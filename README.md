@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋😄 Mulai aja dulu hasilnya tar keliatan juga.
+
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lvZDFtbDlibjhocXZ1MnBxaXA5cW91bndqZzhvbXV6bWc5ajhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHYNyjAqrqkzm/giphy.gif" alt="hai"/>
+</p>
 
 <!--
 **Marko1705/Marko1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Web cuaca on Course [**@Deaafrizal**](https://github.com/deaafrizal)
+- 🌱 I’m currently learning **Javascript & Python**
