@@ -1,7 +1,7 @@
 # 👋😄 Mulai aja dulu hasilnya tar keliatan juga.
 
 <p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lvZDFtbDlibjhocXZ1MnBxaXA5cW91bndqZzhvbXV6bWc5ajhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHYNyjAqrqkzm/giphy.gif" alt="hai"/> width="350"
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lvZDFtbDlibjhocXZ1MnBxaXA5cW91bndqZzhvbXV6bWc5ajhmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHYNyjAqrqkzm/giphy.gif" alt="hai"/>" width="350"
 </p>
 
 <!--
